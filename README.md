@@ -1,64 +1,59 @@
-# Kütahya Tasarım Teknokent - Kurumsal Web Sitesi
+# Kütahya Tasarım Teknokent - i18n (Çoklu Dil Desteği)
 
-Kütahya Dumlupınar Tasarım Teknokent'in çok dilli (Türkçe / İngilizce) kurumsal web sitesi.
+Next.js 15 ve **next-intl** kullanılarak Türkçe / İngilizce çoklu dil desteği eklenmiş kurumsal web sitesi.
 
-## 🚀 Teknolojiler
+## 🌐 i18n Yapısı
 
-- **Next.js 15** — React tabanlı full-stack framework
-- **TypeScript**
-- **next-intl** — i18n (çoklu dil desteği)
-- **Mantine UI** — Bileşen kütüphanesi
-- **Tailwind CSS 4**
-- **Radix UI** — Erişilebilir UI bileşenleri
-
-## 📁 Proje Yapısı
-
-```
-├── app/[locale]/           # Dil bazlı sayfa routing
-│   ├── components/         # Ortak bileşenler (Header, Footer, vb.)
-│   ├── About/              # Hakkımızda sayfası
-│   ├── Fiyatlandirma/      # Fiyatlandırma sayfası
-│   ├── TeknokentYonetim/   # Teknokent Yönetimi sayfası
-│   ├── YonetimKurulu/      # Yönetim Kurulu sayfası
-│   └── isilanlari/         # İş ilanları sayfası
-├── i18n/                   # i18n yapılandırması (routing, navigation)
-├── messages/               # Çeviri dosyaları (tr.json, en.json)
-├── public/                 # Statik dosyalar ve görseller
-└── styles/                 # Global stiller
-```
-
-## 🌐 Dil Desteği
+### Desteklenen Diller
 
 | Dil | Kod | Varsayılan |
 |-----|-----|------------|
 | Türkçe | `tr` | ✅ |
 | İngilizce | `en` | |
 
-Çeviri dosyaları `messages/` klasöründe bulunur. Yeni bir dil eklemek için:
-1. `messages/` altına yeni JSON dosyası ekleyin (ör. `de.json`)
-2. `i18n/routing.ts` içindeki `locales` dizisine yeni dil kodunu ekleyin
+### Dosya Yapısı
+
+```
+├── i18n/
+│   ├── routing.ts          # Dil routing yapılandırması (locales, defaultLocale)
+│   ├── request.ts          # Sunucu tarafı i18n isteği
+│   └── navigation.ts       # Link, useRouter gibi i18n navigasyon araçları
+├── messages/
+│   ├── tr.json             # Türkçe çeviriler
+│   └── en.json             # İngilizce çeviriler
+├── middleware.ts            # Locale algılama ve yönlendirme
+└── app/[locale]/            # Dil bazlı dinamik routing
+```
+
+### Nasıl Çalışır
+
+- URL'ler `/tr/...` ve `/en/...` şeklinde dil prefixi alır
+- Varsayılan dil Türkçe (`tr`) olarak ayarlanmıştır
+- `middleware.ts` gelen istekleri uygun locale'e yönlendirir
+- Bileşenlerde `useTranslations('Namespace')` hook'u ile çeviriler kullanılır
+
+### Yeni Dil Ekleme
+
+1. `messages/` altına yeni çeviri dosyası oluşturun (ör. `de.json`)
+2. `i18n/routing.ts` dosyasındaki `locales` dizisine yeni dil kodunu ekleyin:
+   ```ts
+   locales: ['tr', 'en', 'de']
+   ```
+
+### Kullanım Örneği
+
+```tsx
+import { useTranslations } from 'next-intl'
+
+export default function MyComponent() {
+  const t = useTranslations('Header')
+  return <h1>{t('title')}</h1>
+}
+```
 
 ## ⚙️ Kurulum
 
 ```bash
-# Bağımlılıkları yükle
 npm install
-
-# Geliştirme sunucusunu başlat
 npm run dev
-
-# Prodüksiyon build
-npm run build
-npm start
 ```
-
-Geliştirme sunucusu varsayılan olarak [http://localhost:3000](http://localhost:3000) adresinde çalışır.
-
-## 📄 Sayfalar
-
-- **Ana Sayfa** — Hero, kurumsal bilgiler, firmalar, başvuru süreci, haberler, hizmetler
-- **Hakkımızda** — Teknokent tanıtımı, misyon ve vizyon
-- **Yönetim Kurulu** — Kurul üyeleri ve kurumsal bilgiler
-- **Teknokent Yönetimi** — Departmanlar ve yönetim kadrosu
-- **Fiyatlandırma** — Ofis ve proje ücretleri
-- **İş İlanları** — Açık pozisyonlar
