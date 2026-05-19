@@ -1,0 +1,149 @@
+{
+  "HomePage": {
+    "title": "Ana Sayfa Başlığı",
+    "about": "Hakkında"
+  },
+  "Header": {
+    "title1":"Kütahya",
+    "title2":"Tasarım Teknokent",
+    "about": "Hakkımızda",
+    "corporate": "Kurumsal",
+    "companies": "Firmalar",
+    "documents": "Dökümanlar",
+    "help": "Yardım",
+    "contact": "İletişim",
+    "media": "Medya",
+    "language": "Dil",
+  "aboutDropdown": "Hakkımızda",
+  "boardDropdown": "Yönetim Kurulu",
+  "managementDropdown": "Teknokent Yönetimi",
+  "pricingDropdown": "Fiyatlandırma Politikamız",
+  "newsDropdown": "Haberler",
+  "eventsDropdown": "Etkinlikler",
+  "languageDropdown": "Dil"
+  },
+    "HeroSection": {
+    "title1": "Kütahya",
+    "title2": "Tasarım Teknokent"
+  },
+  "HeroCards": {
+    "companies": "Firmalar",
+    "contact": "İletişim",
+    "aboutus": "Hakkımızda",
+    "apply": "Başvuru",
+    "detail": "Detay"
+  },
+  "CorporateSection": {
+    "title": "Kurumsal"
+  },
+  "Firmalar": {
+    "title": "Firmalar",
+    "company1": "Firma 1",
+    "company2": "Firma 2",
+    "company3": "Firma 3",
+    "company4": "Firma 4",
+    "company5": "Firma 5",
+    "company6": "Firma 6"
+  },
+  "BasvuruSection": {
+    "title": "Proje Başvuru Sürecimiz",
+    "cardTitle1": "Proje Başvurusu",
+    "cardTitle2": "Yönetim Değerlendirmesi",
+    "cardTitle3": "Hakem Değerlendirmesi",
+    "cardTitle4": "Yönetim Kurulu Onayı",
+    "cardDescription1":"Proje başvuru süreciniz ön başvurunuz ile başlar",
+    "cardDescription2":"Ön başvurusu alınan proje değerlendirilmesi sonucu olumlu olursa projenizin detaylı olarak açıklanması istenir.",
+    "cardDescription3":"Detaylı olarak açıklanan proje hakemlere sevk edilir. Hakem değerlendirmesi olumlu projeler yönetim kuruluna sevk edilir.",
+    "cardDescription4":"Hakem değerlendirmesi olumlu olan projeleri son olarak yönetim kurulu değerlendirerek nihai karar verilir."
+  },
+  "NewsSection": {
+    "title": "Haberler"
+  },
+  "ServicesSection": {
+    "title": "Hizmetler"
+  },
+  "FooterSection": {
+  "about": "Hakkımızda",
+  "corporate": "Kurumsal",
+  "board": "Yönetim Kurulu",
+  "management": "Teknokent Yönetimi",
+  "companies": "Firmalar",
+  "gallery": "Bizden Kareler",
+  "documents": "Doküman ve Yardım",
+  "contactus": "Bize Ulaşın",
+  "contact": "İletişim",
+  "phone": "(0274) 502 11 61",
+  "email": "info@dumlupinarteknokent.com"
+  },
+  "AboutAccordion": {
+    "title": "Hakkımızda",
+    "subtitle": "Biz kimiz? Neler yapıyoruz?",
+    "subtitle2": "Kütahya Tasarım Teknokent",
+    "description1": "Teknoloji Geliştirme Bölgeleri (TGB), üniversiteler, araştırma kurumları ve sanayi kuruluşlarının ileri teknoloji ile aynı ortam içerisinde AR-GE ve inovasyon çalışmalarını sürdürdükleri, projeler ve yenilikçi ürünler ortaya çıkardıkları, birbirleri arasında bilgi ve teknoloji transferi gerçekleştirdikleri, bu yolla bölgelerin ve ülkemizin kalkınmasına katkıda bulundukları, akademik, ekonomik ve sosyal yapının birleştiği organize araştırma, iş ve girişimcilik merkezleridir. 2023 yılına kadar TGB’deki şirketler yürüttükleri Ar-Ge projeleri ve geliştirdikleri yazılımlar ile ilgili olarak KDV muafiyeti, gümrük vergisi muafiyeti gibi teşvikler alırken çalışan Ar-Ge ve yazılım personeline de stopaj teşviki, sigorta primi teşviki verilmektedir. TGB yönetici şirketleri tarafından Bölgede faaliyette bulunan firmalara danışmanlık hizmetleri, esnek kira sözleşmeleri, ortak toplantı mekanları, ortak faks, fotokopi vb. ofis ekipmanı, muhasebe hizmetleri gibi çeşitli hizmetler de verilebilmektedir. Günümüzde bir ülkenin küresel rekabet edebilirlik düzeyi, o ülkenin ‘yeni bilgi’ üretebilme kapasitesi ve ‘teknolojik gelişimi’ ile doğru orantılıdır. Yeni bilgi ile teknolojik uygulamanın aynı çatı altında toplandığı Kamu-Üniversite-Sanayi İş Birliği Modeli, ülkelerin teknoloji tabanlı kalkınmasına doğrudan etkileri kanıtlanmış dünya çapında bir modeldir. TGB’ler; üniversiteler, AR-GE kuruluşları, firmalar ve pazar arasında bilgi ve teknoloji akışını yönetir ve teşvik eder, yenilikçi firmaların oluşmasını ve büyümesini kolaylaştırır, yüksek kalitede mekân ve olanaklar sağlar ve diğer katma değerli hizmetleri sunar. Kütahya Dumlupınar Üniversitesi 2009 yılında Kütahya Organize Serbest Bölgesinde TGB kurulması ile ilgili Bilim, Sanayi ve Teknoloji Bakanlığına başvuruda bulunmuştur. Başvuru Başbakanlığın uygun görüşü ile Bakanlar Kuruluna gönderilmiş ve Bakanlar Kurulu kararı 28.07.2009 tarihli Resmi gazetenin 27302 sayılı nüshasında yayınlanmıştır. Kütahya Dumlupınar Üniversitesi ve Bilim, Sanayi ve Teknoloji Bakanlığı’nın ortaklaşa kurmuş oldukları “Kütahya Dumlupınar Tasarım, Teknoloji Geliştirme Bölgesi (Dumlupınar TGB)’nin resmi olarak kurulmasından sonra Tasarım Teknokent Yönetici Anonim Şirketi (Dumlupınar Teknokent) 25/01/2010 tarihinde kurulmuş ve 2013 yılında faaliyete başlamıştır. Kütahya Tasarım Teknoken binası bodrum + zemin + 2 kattan oluşan 58,80 metre uzunluğunda 18,50 metre genişliğinde olup yaklaşık 2000.00 m2 kiralanabilir ofis alanına sahiptir. Yazılım şirketleri başta olmak üzere otomasyon ve kimya sektörlerinden 100+ şirket Kütahya Tasarım Teknokent’te faaliyet göstermektedir.",
+    "title2": "Misyonumuz",
+    "description2": "Türkiye’de Teknoloji geliştiricisi Ar-Ge kurum ve kuruluşları ile teknoloji kullanıcısı sanayi şirketleri veya diğer teknoloji ya da Ar-Ge kurum ve kuruluşları arasında bilgilendirme, koordinasyon, araştırmayı yönlendirme, yeni Ar-Ge şirketlerinin oluşturulmasını teşvik etme, iş birliği geliştirme, fikri mülkiyet haklarının korunması...",
+    "title3":"Vizyonumuz",
+    "description3": "Ülkemizin gelişmişlik seviyesine katkı sağlamak amacıyla yüksek/ileri teknolojiler alanında inovasyon kültürünün gelişmesini teşvik edici, yaratıcılık ve girişimcilik alanında önemli projelerin ekonomiye kazandırılması ve ticarileştirilmesi, üniversite-sanayi işbirliğinin gelişimine katkı sağlamak amacıyla ortak proje geliştirmek ve firmalar arasında sinerji oluşturmak üzere eşleştirme ve kümeleme çalışmalarıyla sürdürülebilir Ar-Ge ve inovasyon ekosistemi içerisinde, akademik ve endüstriyel girişimciliği destekleyerek, bölgesel ve ulusal düzeyde en yüksek katma değeri yaratmaktır."
+  },
+  "YonetimKurulu": {
+  "corporateInfo": [
+    {
+      "title": "Kurumsal Kimlik",
+      "description": "Dumlupınar Teknokent Yönetim Kurulu, Kütahya’nın teknoloji vizyonuna yön veren, üniversite-sanayi iş birliğini esas alan bir karar ve strateji organıdır."
+    },
+    {
+      "title": "Görev ve Sorumluluklar",
+      "description": "Yönetim Kurulumuz; stratejik kararlar almak, yeni projeleri değerlendirmek ve Teknokent'in sürdürülebilirliğini sağlamakla görevlidir."
+    },
+    {
+      "title": "Kurul Üyelerimiz",
+      "description": "Üniversite, kamu ve sanayi temsilcilerinden oluşan kurul üyelerimiz, farklı alanlardaki uzmanlıklarıyla Teknokent’in gelişimine katkı sunmaktadır."
+    }
+  ],
+  "boardMembers": [
+    { "name": "Prof. Dr. Süleyman KIZILTOPRAK", "position": "Yönetim Kurulu Başkanı DPÜ Rektörü" },
+    { "name": "Mücahit ERACAR", "position": "Yönetim Kurulu Başkan Vekili - Kütahya İl Özel İdaresi Genel Sekreteri" },
+    { "name": "Eyüp KAHVECİ", "position": "Üye - Kütahya Belediye Başkanı" },
+    { "name": "Hikmet TUNÇ", "position": "Üye - Altıntaş Belediye Başkanı" },
+    { "name": "Tunahan ERGİN", "position": "Üye - Kütahya 1.OSB Müdürü" },
+    { "name": "Mustafa Selman HATİPOĞLU", "position": "Üye - Kütahya Ticaret ve Sanayi Odası Temsilcisi" },
+    { "name": "Hasan ÖZYAŞAR", "position": "Üye - Tavşanlı Sanayi ve Ticaret Odası Temsilcisi" },
+    { "name": "Yılmaz ÖZEN", "position": "Üye - Gediz Sanayi ve Ticaret Odası Temsilcisi" },
+    { "name": "Mustafa YENİPAZAR", "position": "Üye - Kütahya 30 Ağustos OSB Temsilcisi" },
+    { "name": "Prof. Dr. Ahmet TEKİN", "position": "Üye - Kütahya Sağlık Bilimleri Üniversitesi Rektörü" },
+    { "name": "Şeref KAZICIOĞLU", "position": "Üye - SİMAV TSO Yön. Kur. Başkanı" }
+  ]
+  },
+  "YonetimKuruluHeroSection": {
+    "title1": "Kütahya",
+    "title2": "Tasarım Teknokent"
+  },
+  "YonetimKuruluBoardMembers": {
+    "title": "Yönetim Kurulu"
+  },
+  "FiyatlandirmaHeroSection": {
+    "title1": "Tasarım Teknokent",
+    "title2": "Fiyatlandırma Politikamız"
+  },
+  "PricingSection": {
+  "title": "Ücretlendirmeler",
+  "subtitle": "Ofis ve Proje Ücretleri",
+  "card1Title": "Girişimci (Ana Bina)",
+  "card2Title": "Girişimci (Ek Bina)",
+  "card3Title": "Kuluçka",
+  "card4Title": "Proje Revizyonu",
+  "card5Title": "Proje Bitirme Belgesi",
+  "card6Title": "Proje Başvuru Bedeli",
+  "feature1": "Ücretli Danışmanlık",
+  "feature2": "Teknokent Avantajları",
+  "feature3": "Diğer Firmalar ile İş Birliği İmkânı",
+  "feature4": "Sosyal Faaliyetler",
+  "feature5": "Danışmanlık",
+  "feature6": "Bilgisayar İmkanı",
+  "feature7": "İnternet",
+  "feature8": "İçecek",
+  "feature9": "Yatırımcı Organizasyonu",
+  "feature10": "Diğer Teknokent Avantajları",
+  "contactButton": "Bize Ulaşın"
+}
+}

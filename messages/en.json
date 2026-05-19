@@ -1,0 +1,150 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Header": {
+    "title1":"Kutahya",
+    "title2":"Design Technopark",
+    "about": "About Us",
+    "corporate": "Corporate",
+    "companies": "Companies",
+    "documents": "Documents",
+    "help": "Help",
+    "contact": "Contact",
+    "media": "Media",
+    "language": "Language",
+    "aboutDropdown": "About Us",
+    "boardDropdown": "Board of Directors",
+    "managementDropdown": "Technopark Management",
+    "pricingDropdown": "Pricing Policy",
+    "newsDropdown": "News",
+    "eventsDropdown": "Events",
+    "languageDropdown": "Language"
+  },
+    "HeroSection": {
+    "title1": "Kutahya",
+    "title2": "Design Technopark"
+  },
+  "HeroCards": {
+    "companies": "Our Companies",
+    "contact": "Contact",
+    "aboutus": "About Us",
+    "apply": "Application",
+    "detail" : "Detail"
+  },
+  "CorporateSection": {
+    "title": "Corporate"
+  },
+  "Firmalar": {
+    "title": "Companies",
+    "company1": "Company 1",
+    "company2": "Company 2",
+    "company3": "Company 3",
+    "company4": "Company 4",
+    "company5": "Company 5",
+    "company6": "Company 6"
+  },
+  "BasvuruSection":{
+    "title":"Our Project Application Process",
+    "cardTitle1": "Project Application",
+    "cardTitle2": "Management Evaluation",
+    "cardTitle3": "Reviewer Evaluation",
+    "cardTitle4": "Board Approval",
+    "cardDescription1":"The project application process begins with your preliminary application.",
+    "cardDescription2":"If the project’s preliminary application receives a positive evaluation, you will be asked to provide a detailed explanation of your project.",
+    "cardDescription3":"The project, once explained in detail, is referred to the reviewers. Projects with positive reviewer evaluations are referred to the board.",
+    "cardDescription4":"Finally, the board evaluates the projects with positive reviewer evaluations and makes the final decision."
+  },
+  "NewsSection":{
+    "title": "News"
+  },
+  "ServicesSection": {
+    "title": "Services"
+  },
+  "FooterSection": {
+  "about": "About",
+  "corporate": "Corporate",
+  "board": "Board of Directors",
+  "management": "Technopark Management",
+  "companies": "Companies",
+  "gallery": "Gallery",
+  "documents": "Documents & Help",
+  "contactus": "Contact Us",
+  "contact": "Contact",
+  "phone": "(0274) 502 11 61",
+  "email": "info@dumlupinarteknokent.com"
+  },
+  "AboutAccordion": {
+    "title": "About Us",
+    "subtitle": "Who are we? What do we do?",
+    "subtitle2": "Kütahya Design Technopark",
+    "description1": "Technology Development Zones (TDZ) are organized research, business, and entrepreneurship centers where universities, research institutions, and industrial organizations carry out R&D and innovation activities in the same environment using advanced technology; produce projects and innovative products; exchange knowledge and technology among themselves; and thereby contribute to the development of the regions and our country. These zones bring together academic, economic, and social structures. Until 2023, companies operating in TDZs have benefited from incentives such as VAT exemption and customs duty exemption for the R&D projects they carry out and the software they develop. In addition, R&D and software personnel employed in these companies are granted income tax withholding incentives and social security premium incentives. TDZ management companies can also provide various services to firms operating in the zone, such as consultancy services, flexible lease agreements, shared meeting facilities, shared office equipment (fax, photocopy, etc.), and accounting services. Today, a country’s level of global competitiveness is directly proportional to its capacity to produce “new knowledge” and achieve “technological development.” The Public–University–Industry Collaboration Model, in which new knowledge and technological application are brought together under the same roof, is a globally proven model with direct impacts on technology-based development. TDZs manage and promote the flow of knowledge and technology between universities, R&D organizations, firms, and the market; facilitate the formation and growth of innovative companies; provide high-quality spaces and facilities; and offer other value-added services. Kütahya Dumlupınar University applied to the Ministry of Science, Industry and Technology in 2009 for the establishment of a TDZ in the Kütahya Organized Free Zone. The application, approved by the Prime Ministry, was submitted to the Council of Ministers, and the decision was published in the Official Gazette dated 28.07.2009, issue no. 27302. Following the official establishment of the “Kütahya Dumlupınar Design and Technology Development Zone (Dumlupınar TDZ)” jointly founded by Kütahya Dumlupınar University and the Ministry of Science, Industry and Technology, the Design Technopark Management Joint Stock Company (Dumlupınar Technopark) was established on 25/01/2010 and started operations in 2013. The Kütahya Design Technopark building consists of a basement, ground floor, and two upper floors, measuring 58.80 meters in length and 18.50 meters in width, with approximately 2,000 m² of rentable office space. More than 100 companies, primarily in the software sector but also from automation and chemistry industries, operate within Kütahya Design Technopark.",
+    "title2": "Our Mission",
+    "description2": "To provide information, coordination, research guidance, promotion of new R&D companies, development of cooperation, and protection of intellectual property rights between technology-developing R&D institutions and organizations in Türkiye and technology-using industrial companies or other technology or R&D institutions and organizations...",
+    "title3":"Our Vision",
+    "description3": "To contribute to the country’s level of development by fostering an innovation culture in the field of high/advanced technologies, bringing significant projects in creativity and entrepreneurship into the economy and ensuring their commercialization; to develop joint projects in order to enhance university–industry cooperation; and to create synergy between companies through matchmaking and clustering activities within a sustainable R&D and innovation ecosystem, thereby supporting academic and industrial entrepreneurship to generate the highest added value at regional and national levels."
+  },
+  "YonetimKurulu": {
+  "corporateInfo": [
+    {
+      "title": "Corporate Identity",
+      "description": "Dumlupinar Technopark Board of Directors is a decision and strategy body that guides Kütahya’s technology vision and is based on university-industry cooperation."
+    },
+    {
+      "title": "Duties and Responsibilities",
+      "description": "Our Board is responsible for making strategic decisions, evaluating new projects, and ensuring the sustainability of the Technopark."
+    },
+    {
+      "title": "Our Board Members",
+      "description": "Our board members, consisting of representatives from university, public and industry, contribute to the development of the Technopark with their expertise in different fields."
+    }
+  ],
+  "boardMembers": [
+    { "name": "Prof. Dr. Süleyman KIZILTOPRAK", "position": "Chairman of the Board, Rector of DPU" },
+    { "name": "Mücahit ERACAR", "position": "Vice Chairman of the Board - Secretary General of Kütahya Special Provincial Administration" },
+    { "name": "Eyüp KAHVECİ", "position": "Member - Mayor of Kütahya" },
+    { "name": "Hikmet TUNÇ", "position": "Member - Mayor of Altıntaş" },
+    { "name": "Tunahan ERGİN", "position": "Member - Manager of Kütahya 1st Organized Industrial Zone" },
+    { "name": "Mustafa Selman HATİPOĞLU", "position": "Member - Representative of Kütahya Chamber of Commerce and Industry" },
+    { "name": "Hasan ÖZYAŞAR", "position": "Member - Representative of Tavşanlı Chamber of Commerce and Industry" },
+    { "name": "Yılmaz ÖZEN", "position": "Member - Representative of Gediz Chamber of Commerce and Industry" },
+    { "name": "Mustafa YENİPAZAR", "position": "Member - Representative of Kütahya 30 August Organized Industrial Zone" },
+    { "name": "Prof. Dr. Ahmet TEKİN", "position": "Member - Rector of Kütahya University of Health Sciences" },
+    { "name": "Şeref KAZICIOĞLU", "position": "Member - President of SİMAV Chamber of Commerce and Industry" }
+  ]
+  },
+  "YonetimKuruluHeroSection": {
+    "title1": "Kutahya",
+    "title2": "Design Technopark"
+  },
+  "YonetimKuruluBoardMembers": {
+    "title": "Board of Directors"
+  },
+  "FiyatlandirmaHeroSection": {
+    "title1": "Design Technopark",
+    "title2": "Pricing Policy"
+  },
+  "PricingSection": {
+  "title": "Pricing",
+  "subtitle": "Office and Project Fees",
+  "card1Title": "Entrepreneur (Main Building)",
+  "card2Title": "Entrepreneur (Annex Building)",
+  "card3Title": "Incubation",
+  "card4Title": "Project Revision",
+  "card5Title": "Project Completion Certificate",
+  "card6Title": "Project Application Fee",
+  "feature1": "Paid Consultancy",
+  "feature2": "Technopark Advantages",
+  "feature3": "Collaboration Opportunities with Other Companies",
+  "feature4": "Social Activities",
+  "feature5": "Consultancy",
+  "feature6": "Computer Access",
+  "feature7": "Internet",
+  "feature8": "Beverage",
+  "feature9": "Investor Organization",
+  "feature10": "Other Technopark Advantages",
+  "contactButton": "Contact Us"
+}
+
+}
